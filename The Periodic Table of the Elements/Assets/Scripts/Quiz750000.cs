@@ -84,7 +84,7 @@ public class Quiz750000 : MonoBehaviour
 
         else if (randomQuestion == 7)
         {
-            QuestionText.text = "Magnesium can be found free in nature.";
+            QuestionText.text = "Flerovium's chemical symbol is Fv.";
             correctAnswer = "false";
         }
 
@@ -372,7 +372,7 @@ public class Quiz750000 : MonoBehaviour
 
         else if (randomQuestion == 55)
         {
-            QuestionText.text = "A minus sign before an element's dscovery year indicates that the element was discovered in or around that year, BC.";
+            QuestionText.text = "A minus sign before an element's discovery year indicates that the element was discovered in or around that year, BC.";
             correctAnswer = "true";
         }
 

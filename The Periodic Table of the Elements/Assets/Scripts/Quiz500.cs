@@ -72,7 +72,7 @@ public class Quiz500 : MonoBehaviour
 
         else if (randomQuestion == 5)
         {
-            QuestionText.text = "A minus sign before an element's dscovery year indicates that the element was discovered in or around that year, BC.";
+            QuestionText.text = "A minus sign before an element's discovery year indicates that the element was discovered in or around that year, BC.";
             correctAnswer = "true";
         }
 

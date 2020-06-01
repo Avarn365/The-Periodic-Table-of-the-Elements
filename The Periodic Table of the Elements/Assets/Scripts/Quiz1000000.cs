@@ -48,7 +48,7 @@ public class Quiz1000000 : MonoBehaviour
 
         if (randomQuestion == 1)
         {
-            QuestionText.text = "Hydrogen is the most abundant element in the universe.";
+            QuestionText.text = "The Great Oxygenation event happened at the beginning of the Proterozoic Eon.";
             correctAnswer = "true";
         }
 
@@ -372,7 +372,7 @@ public class Quiz1000000 : MonoBehaviour
 
         else if (randomQuestion == 55)
         {
-            QuestionText.text = "A minus sign before an element's dscovery year indicates that the element was discovered in or around that year, BC.";
+            QuestionText.text = "A minus sign before an element's discovery year indicates that the element was discovered in or around that year, BC.";
             correctAnswer = "true";
         }
 
@@ -480,7 +480,7 @@ public class Quiz1000000 : MonoBehaviour
 
         else if (randomQuestion == 73)
         {
-            QuestionText.text = "Platinum can occur free in nature.";
+            QuestionText.text = "Oganesson-294 decays through alpha decay into livermorium-290.";
             correctAnswer = "true";
         }
 

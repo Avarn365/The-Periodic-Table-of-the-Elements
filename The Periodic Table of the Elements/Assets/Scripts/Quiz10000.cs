@@ -120,7 +120,7 @@ public class Quiz10000 : MonoBehaviour
 
         else if (randomQuestion == 13)
         {
-            QuestionText.text = "Neon is element 10 in the Periodic Table";
+            QuestionText.text = "Neon is element 10 in the Periodic Table.";
             correctAnswer = "true";
         }
 
@@ -216,7 +216,7 @@ public class Quiz10000 : MonoBehaviour
 
         else if (randomQuestion == 29)
         {
-            QuestionText.text = "Berkelium's boiling point is greater than 1000K";
+            QuestionText.text = "Berkelium's boiling point is greater than 1000K.";
             correctAnswer = "false";
         }
 

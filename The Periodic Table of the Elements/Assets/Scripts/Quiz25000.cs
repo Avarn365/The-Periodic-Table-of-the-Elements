@@ -54,7 +54,7 @@ public class Quiz25000 : MonoBehaviour
 
         else if (randomQuestion == 2)
         {
-            QuestionText.text = "Antimony has two known stable isotopes";
+            QuestionText.text = "Antimony has two known stable isotopes.";
             correctAnswer = "true";
         }
 
@@ -72,7 +72,7 @@ public class Quiz25000 : MonoBehaviour
 
         else if (randomQuestion == 5)
         {
-            QuestionText.text = "A minus sign before an element's dscovery year indicates that the element was discovered in or around that year, BC.";
+            QuestionText.text = "A minus sign before an element's discovery year indicates that the element was discovered in or around that year, BC.";
             correctAnswer = "true";
         }
 
@@ -216,7 +216,7 @@ public class Quiz25000 : MonoBehaviour
 
         else if (randomQuestion == 29)
         {
-            QuestionText.text = "Berkelium's boiling point is greater than 1000K";
+            QuestionText.text = "Berkelium's boiling point is greater than 1000K.";
             correctAnswer = "false";
         }
 
@@ -258,7 +258,7 @@ public class Quiz25000 : MonoBehaviour
 
         else if (randomQuestion == 36)
         {
-            QuestionText.text = "On average, humans consume about 6 grams of boron a day from food.";
+            QuestionText.text = "Flerovium's chemical symbol is Fv.";
             correctAnswer = "false";
         }
 

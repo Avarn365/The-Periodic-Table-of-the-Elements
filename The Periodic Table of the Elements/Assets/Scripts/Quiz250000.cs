@@ -420,7 +420,7 @@ public class Quiz250000 : MonoBehaviour
 
         else if (randomQuestion == 63)
         {
-            QuestionText.text = "Actinium's atomic symbol is Ac.";
+            QuestionText.text = "The Great Oxygenation event happened at the beginning of the Proterozoic Eon.";
             correctAnswer = "true";
         }
 

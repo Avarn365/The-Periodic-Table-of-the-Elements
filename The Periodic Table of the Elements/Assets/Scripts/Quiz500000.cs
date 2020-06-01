@@ -372,7 +372,7 @@ public class Quiz500000 : MonoBehaviour
 
         else if (randomQuestion == 55)
         {
-            QuestionText.text = "A minus sign before an element's dscovery year indicates that the element was discovered in or around that year, BC.";
+            QuestionText.text = "A minus sign before an element's discovery year indicates that the element was discovered in or around that year, BC.";
             correctAnswer = "true";
         }
 
@@ -492,7 +492,7 @@ public class Quiz500000 : MonoBehaviour
 
         else if (randomQuestion == 75)
         {
-            QuestionText.text = "Chromium(IV) is essential for humans and is the main route for chromium uptake.";
+            QuestionText.text = "Meitnerium is located at period 7 and group 8.";
             correctAnswer = "false";
         }
 
